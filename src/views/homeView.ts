@@ -25,7 +25,7 @@ export class HomeView {
 						<label><input type="radio" value="${Action.Increment}" ${actionType === Action.Increment ? "checked" : ""} name="actionType"  /> Increment</label>
 						<label><input type="radio" value="${Action.Decrement}" ${actionType === Action.Decrement ? "checked" : ""} name="actionType" /> Decrement</label>
 					</p>
-					<button name="decrement">Submit</button>
+					<button>Submit</button>
 				</form>
 			</body>
 		</html>`;
