@@ -1,7 +1,7 @@
 import { define, inject } from "injex";
 import { controller, get, post } from "injex-express-plugin";
 import { Response, Request } from "express";
-import { CounterManager } from "../manager/counterManager";
+import { CounterManager } from "../managers/counterManager";
 import { HomeView } from "../views/homeView";
 import { Action } from "../common/enums";
 
