@@ -1,6 +1,6 @@
 # Injex express example
 
-THis is a demo project for Injex and injex-express-plugin
+This is a demo project for Injex and injex-express-plugin
 
 ## Install
 
