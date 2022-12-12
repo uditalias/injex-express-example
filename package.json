@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/uditalias/injex-express-example#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "injex": "^1.0.15",
     "injex-express-plugin": "^1.0.0",
     "tslib": "^1.10.0"
